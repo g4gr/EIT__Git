@@ -1,9 +1,11 @@
----
- - Comision : 
- - Curso : Git - Desarrollo Colaborativo.
- - Fecha Inicio : 28/03/2023
- - Fecha Final : 18/04/2023
- - Docente : [Gabriel Gonzalez Romero]( gabygonzalezromero@gmail.com )
+| Item          | Data                                                      |
+| :---:         | :---                                                      |
+| Comision #    | ??                                                        | 
+| Curso         | Git - Desarrollo Colaborativo.                            |
+| Fecha Inicio  | 28/03/2023                                                |
+| Fecha Final   | 18/04/2023                                                |
+| Docente       | [Gabriel Gonzalez Romero]( gabygonzalezromero@gmail.com ) |
+
 ---
 ## Tareas pendientes
  - [ ] Saludo.
