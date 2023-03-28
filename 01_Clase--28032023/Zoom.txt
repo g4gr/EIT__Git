@@ -1,0 +1,139 @@
+
+08:03:03 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Hola hola, buen dia!
+	Como están ?
+	
+	Arrancamos a las 08:05 hs.
+08:03:20 Del Lucas Laborde-127046 a Todos:
+	Hola buen día. OK
+08:03:23 Del Alejandro Egaña a Todos:
+	buenos días, ok!
+08:03:31 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	buenos dias
+08:03:31 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Mientras dejamos la musica de fondo
+08:03:37 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Reacted to "Hola buen día. OK" with 👋🏽
+08:03:41 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Reacted to "buenos días, ok!" with 👋🏽
+08:03:44 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Reacted to "buenos dias" with 👋🏽
+08:03:47 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	Reacted to "Mientras dejamos la ..." with 👍
+08:04:08 Del valeria suarez a Todos:
+	hola! Buenos dias
+08:04:24 Del Lidia Manrique a Todos:
+	hola profe... me cambie a esta comisión y cai de nuevo a estudiar con usted
+08:04:29 Del Lidia Manrique a Todos:
+	casualidades
+08:04:38 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Reacted to "casualidades" with ❤️
+08:05:30 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si, buenos dias
+08:05:31 Del Lidia Manrique a Todos:
+	Hola buenos dias
+08:06:31 Del Lidia Manrique a Todos:
+	si si
+08:06:37 Del Alejandro Egaña a Todos:
+	si, la recibé
+08:06:37 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	tood bien
+08:08:10 Del Lidia Manrique a Todos:
+	gracias
+08:09:10 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	👋
+08:09:15 Del Alejandro Egaña a Todos:
+	buenos días
+08:19:56 Del Lidia Manrique a Todos:
+	si eso es lo mas difícil en mi caso, la practica , ser autodidacta
+08:23:06 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Descargar Git : https://git-scm.com/downloads
+08:24:43 Del Lidia Manrique a Todos:
+	ya lo tengo instalado en Windows... no es preciso descargar la ultima versión?
+08:24:54 Del Lidia Manrique a Todos:
+	ok
+08:24:59 Del Lucas Laborde-127046 a Todos:
+	Puede instalarlo perfecto
+08:25:16 Del Alejandro Egaña a Todos:
+	lo tengo instalado, versión 2.39
+08:25:18 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	sin problemas al instalarlo
+08:25:27 Del Agustin Cespedes-871264 a Todos:
+	Yo tengo el git bush, no se si es ese
+08:25:32 Del Elizabeth ruiz diaz a Todos:
+	buen dia-
+08:25:39 Del Federico Maciel a Todos:
+	Lo deecargué via el mail de Educacion It.
+08:25:41 Del Elizabeth ruiz diaz a Todos:
+	yo ya estoy en proceso deintalacion
+08:26:01 Del Elizabeth ruiz diaz a Todos:
+	de instalacion
+08:26:04 Del Ulises Fernandez Pertierra-462430 a Todos:
+	buen dia, sin problemas para instalarlo yo
+08:26:08 Del valeria suarez a Todos:
+	yo tengo el git bash
+08:31:51 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Interfaces gráficas de Git > https://git-scm.com/downloads/guis
+08:32:46 Del Lidia Manrique a Todos:
+	en el caso de usar visual code, hay algún cambio a tener en cuenta al momento de programar, con la terminal integrada?
+08:33:37 Del Agustin Cespedes-871264 a Todos:
+	Se puede usar VS code En GIT?
+08:35:20 Del Lidia Manrique a Todos:
+	para manejarnos con la consola tenemos que aprender un lenguaje o palabras especificas para subir  , crear carpetas o modificar, buscar, algo vi hace mucho
+08:38:23 Del Lidia Manrique a Todos:
+	para entrar a la consola que comando se usaba?
+08:41:18 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	`git --version` : Comprobar la version que tengo instalada de Git
+08:41:55 Del Lidia Manrique a Todos:
+	tengo la 2.36.1
+09:00:16 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si
+09:00:16 Del Lucas Laborde-127046 a Todos:
+	si si
+09:00:20 Del Alejandro Egaña a Todos:
+	si, se entiende
+09:00:22 Del Lidia Manrique a Todos:
+	si se entiende
+09:06:38 Del Lidia Manrique a Todos:
+	seria como que lucas creo una versión del código que había descargado, luego lo subio como principal versión, y los otros tuvieron que actualizar sus repos?
+09:13:35 Del Lucas Laborde-127046 a Todos:
+	si super claro
+09:13:39 Del Lidia Manrique a Todos:
+	si si
+09:39:18 Del Lidia Manrique a Todos:
+	ahí entran en juego los roles  verdad?
+09:47:50 Del Lidia Manrique a Todos:
+	profe cuando volvemos a un cambio, ese retorno , se graba como una nueva versión?
+09:55:58 Del Lidia Manrique a Todos:
+	habría 2 versiones? la pasada y la ultima
+09:56:59 Del Lidia Manrique a Todos:
+	ok ok
+09:57:09 Del Lidia Manrique a Todos:
+	entonces todo es recuperable
+09:57:44 Del Lidia Manrique a Todos:
+	hacer el comando INIT en mi carpeta
+09:58:42 Del Lidia Manrique a Todos:
+	en mi caso ya la tengo
+09:59:14 Del Lidia Manrique a Todos:
+	mis repos son muy pobres jajaj
+10:03:16 Del Lidia Manrique a Todos:
+	saludos profe... muy clara la clase!!
+10:03:59 Del Agustin Cespedes-871264 a Todos:
+	Muy buena la clase profe, Saludos!!
+10:05:17 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	perfecto! hasta el jueves!
+10:05:17 Del Lucas Laborde-127046 a Todos:
+	Excelente. Que tengan buen día 👍🏼
+10:05:19 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	chau!
+10:05:20 Del Elizabeth ruiz diaz a Todos:
+	saludos !
+10:05:20 Del Federico Maciel a Todos:
+	Hasta el Jueves> Buen dia,
+10:05:20 Del Gustavo Duarte a Todos:
+	Gracias profe, nos vemos
+10:05:22 Del Alejandro Egaña a Todos:
+	chau
+10:05:24 Del Lucas Laborde-127046 a Todos:
+	bye
+
