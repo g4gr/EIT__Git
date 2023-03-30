@@ -1,0 +1,134 @@
+08:00:08 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Hola, buen dia!
+	Arrancamos en 5 min.
+08:00:11 Del [Instructor] Gaby Gonzalez Romero a Todos:
+	Como andan ?
+08:05:42 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	buenos días!
+08:06:04 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	sueño, no lo negare jajaja
+08:06:11 Del Laura Rodriguez a Todos:
+	buen dia !
+08:07:40 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si
+08:07:52 Del Laura Rodriguez a Todos:
+	si. ya lo tenia listo
+08:08:22 Del Lidia Manrique a Todos:
+	buen dia
+08:08:30 Del Lidia Manrique a Todos:
+	disculpen la demora
+08:09:23 Del Alejandro Egaña a Todos:
+	si
+08:09:26 Del Laura Rodriguez a Todos:
+	se escucha bien
+08:25:56 Del Federico Maciel-777756 a Todos:
+	Profe, consulta rápida, como hago para accede, desde la terminal, a un disco secundario que no sea el principal C:?
+08:26:39 Del Federico Maciel-777756 a Todos:
+	Windows, si.
+08:27:34 Del Lidia Manrique a Todos:
+	puede ser mi internet
+08:27:40 Del Lidia Manrique a Todos:
+	anda maso
+08:28:53 Del Lidia Manrique a Todos:
+	en Windows solo se veria la ubicación , y creo que los permisos no se verian
+08:29:32 Del Federico Maciel-777756 a Todos:
+	👌, no problem.
+08:34:25 Del valeria suarez a Todos:
+	profe el touch Tambien sirve para windows? no me lo reconoce ni el ll
+08:34:45 Del valeria suarez a Todos:
+	PS C:\Users\Vale\Desktop\it\git\00-CursoGit> touch archivo.txt index.html documentacion.md
+	touch : The term 'touch' is not recognized as the name of a cmdlet, function, script file, or operable 
+	program. Check the spelling of the name, or if a path was included, verify that the path is correct and     
+	try again.
+	At line:1 char:1
+	+ touch archivo.txt index.html documentacion.md
+	+ ~~~~~
+	    + CategoryInfo          : ObjectNotFound: (touch:String) [], CommandNotFoundException
+	    + FullyQualifiedErrorId : CommandNotFoundException
+08:34:54 Del valeria suarez a Todos:
+	me sale eso
+08:35:29 Del valeria suarez a Todos:
+	no hay drama
+08:39:40 Del valeria suarez a Todos:
+	no me ssalta lo mismo.
+08:39:47 Del valeria suarez a Todos:
+	no pasa nada lo hago manual
+08:40:26 Del valeria suarez a Todos:
+	la del visual estudio
+08:42:03 Del valeria suarez a Todos:
+	powershell
+08:42:17 Del valeria suarez a Todos:
+	dale
+08:42:20 Del valeria suarez a Todos:
+	gracias
+08:49:11 Del Lidia Manrique a Todos:
+	el git puede ser usado por varios usuarios ? digo cambiar de usuario al subir al GitHub?
+08:49:34 Del Lidia Manrique a Todos:
+	genial
+09:03:05 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si
+09:03:09 Del Lidia Manrique a Todos:
+	si si
+09:03:13 Del Gustavo Duarte a Todos:
+	vamos bien
+09:03:17 Del Elizabeth ruiz diaz a Todos:
+	si
+09:09:08 Del Lidia Manrique a Todos:
+	profe, si yo desde visual code hago init en mi archivo, ya se modifica automáticamente esta info?
+09:10:09 Del Lidia Manrique a Todos:
+	a veces también se puede entrar desde consola al mismo archivo, cuando hacemos eso, tsmbien se crea la otra opción de ingreso?
+09:11:58 Del Lidia Manrique a Todos:
+	yo cuando quería cambiar el usuario borraba las credenciales y borraba el git… ahora vi q era mas facil
+09:11:58 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si si
+09:12:07 Del Laura Rodriguez a Todos:
+	todo bien
+09:12:25 Del Lidia Manrique a Todos:
+	sisi
+09:15:02 Del valeria suarez a Todos:
+	perdon en git bash como se borra la consola para que quede solo lo ultimo
+09:15:18 Del Lidia Manrique a Todos:
+	clear
+09:15:34 Del valeria suarez a Todos:
+	gracias!
+09:20:19 Del Lidia Manrique a Todos:
+	yo creía que si o si teníamos que hacer seguimiento de todos los archivos en la carpeta, eso quiere decir que tener algo no guardado no me va a provocar error, verdad?
+09:23:35 Del Lidia Manrique a Todos:
+	ok ok
+09:35:27 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	si
+09:35:32 Del Lidia Manrique a Todos:
+	si
+09:38:31 Del Lidia Manrique a Todos:
+	laura se te prendio el audio
+09:39:01 Del Laura Rodriguez a Todos:
+	perdon
+09:40:57 Del Lidia Manrique a Todos:
+	esto me recuerda a HTML y emmet
+09:52:06 Del Lidia Manrique a Todos:
+	profe, lo que yo genero en git, lo puedo tener asociado a varios repos remotos?
+09:52:22 Del Lidia Manrique a Todos:
+	GitHub y gitkraken
+09:52:54 Del Lidia Manrique a Todos:
+	ah es para ayudar
+09:52:59 Del Lidia Manrique a Todos:
+	a comprender
+09:53:20 Del Lidia Manrique a Todos:
+	solo ver?
+09:53:34 Del Lidia Manrique a Todos:
+	o tiene integrada la terminal?
+09:54:17 Del Lidia Manrique a Todos:
+	ok
+09:58:38 Del Lidia Manrique a Todos:
+	gracias profe.. todo muy claro... queda ponerme a probar , sobre todo alias, y log, eso nunca lo usé
+09:58:57 Del Lidia Manrique a Todos:
+	buen finde para todos
+10:00:18 Del Elizabeth ruiz diaz a Todos:
+	muchas gracias! queda practicar mucho
+10:00:25 Del Elizabeth ruiz diaz a Todos:
+	buen finde, saludos!!
+10:00:27 Del Agustin Cespedes-871264 a Todos:
+	Muchas gracias por todo profe, buen finde para todos
+10:00:59 Del Diego Emanuel Conde Vicente-894800 a Todos:
+	igualmente gracias! buen finde
+
