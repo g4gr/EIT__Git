@@ -1,0 +1,102 @@
+07:41:54 Del Moderadora :: Angelica Alvarez a Gabriel Agustin Gonzalez Romero-871798(Mensaje directo):
+	Buen día!
+08:00:13 Del Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Buen dia, buen dia!!!!
+	Como andan ?
+08:00:19 Del Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	En 5 min. arrancamos
+08:04:37 Del Lidia Manrique a Todos:
+	Buen dia a tod@s
+08:04:42 Del Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Reacted to "Buen dia a tod@s" with 👋🏽
+08:05:39 Del Lidia Manrique a Todos:
+	bien bien
+08:05:40 Del Alejandro Egaña a Todos:
+	buenos días!
+08:05:53 Del Alejandro Egaña a Todos:
+	bien gracias
+08:06:04 Del Lucas Laborde-127046 a Todos:
+	buen día
+08:06:07 Del Laura Rodriguez a Todos:
+	buen dia !
+08:06:10 Del Lucas Laborde-127046 a Todos:
+	con mucha fiaca
+08:06:13 Del Lidia Manrique a Todos:
+	despertándome con ganas de mate
+08:06:21 Del Lidia Manrique a Todos:
+	post depresión jajaja
+08:07:16 Del Agustin Cespedes-871264 a Todos:
+	Hola profe, buen dia
+08:25:59 Del Lidia Manrique a Todos:
+	bien bien
+08:30:01 Del Lidia Manrique a Todos:
+	profe había entendido que nosotros podemos volver a lo que esta guardado commit y modificarlo, qué cambio se hace con la rama a diferencia de esto de los commit?
+08:33:26 Del Lidia Manrique a Todos:
+	tendría la misma base de código que la rama principal, pero modificando lo asignado?
+08:36:56 Del Lidia Manrique a Todos:
+	si si
+08:37:04 Del Lucas Laborde-127046 a Todos:
+	👍🏼
+08:46:57 Del Lidia Manrique a Todos:
+	el tag seria como los hitos, creo que se dice, las modificaciones importantes, sin guardar codigo
+09:10:30 Del Lidia Manrique a Todos:
+	profe en la consola no funciona emmet verdad?
+09:10:52 Del Lidia Manrique a Todos:
+	si o si hay que crear los alias?
+09:12:21 Del Lidia Manrique a Todos:
+	en visual code  al subir y bajar podía volver a los codigos que tipee
+09:14:20 Del Lidia Manrique a Todos:
+	ok profe gracias por explicar
+09:21:27 Del Lidia Manrique a Todos:
+	head seria el puntero?
+09:29:19 Del Gabriel Agustin Gonzalez Romero-871798 a Todos:
+	Git Log : https://www.git-scm.com/docs/git-log
+09:30:50 Del Lidia Manrique a Todos:
+	profe, consulta, vio que usted habla de ramas, y le asigna un programador, cuando estamos trabajando cómo nos asignan la rama?? quizás lo veamos mas adelante. pero le consulto antes de que me olvide
+09:31:02 Del Lidia Manrique a Todos:
+	ya son varias consultas mias jaja
+09:33:14 Del Lidia Manrique a Todos:
+	la rama principal seria la que está en producción?
+09:33:20 Del Lidia Manrique a Todos:
+	funcionando
+09:33:35 Del Lidia Manrique a Todos:
+	ok
+09:38:12 Del Lidia Manrique a Todos:
+	al fusionar muere la rama?
+09:39:38 Del Lidia Manrique a Todos:
+	las subramas no se incorporan?
+09:40:59 Del Alejandro Egaña a Todos:
+	profe, antes de hacer la fusión, siempre hay que hacer el commit de la rama secundaria?
+09:45:09 Del Alejandro Egaña a Todos:
+	ok ok, gracias!
+09:48:12 Del Alejandro Egaña a Todos:
+	si, se entiende
+09:48:14 Del Lidia Manrique a Todos:
+	si si va queriendo
+09:50:57 Del Lidia Manrique a Todos:
+	git Flow es una extensión?
+09:51:04 Del Lidia Manrique a Todos:
+	es gratuito?
+09:51:40 Del Lidia Manrique a Todos:
+	es compatible con Windows?
+09:51:52 Del Lidia Manrique a Todos:
+	multiplataforma
+10:04:16 Del Lidia Manrique a Todos:
+	se puede hacer un merge de distintas ramas a la vez?
+10:09:26 Del Agustin Cespedes-871264 a Todos:
+	Profe, el comando para descargar git flow, no sera el pip install? o nada que ver?
+10:09:38 Del Lidia Manrique a Todos:
+	si profe... ir mercheando por capas
+10:10:20 Del Lidia Manrique a Todos:
+	profe la clase que viene no voy a poder asistir, tengo que asistir al laburo.
+10:10:49 Del Lidia Manrique a Todos:
+	Muchas gracias por todo, todo muy claro.. tengo que repasar!!
+10:10:56 Del Alejandro Egaña a Todos:
+	gracias profe, muy buena la clase
+10:11:39 Del Agustin Cespedes-871264 a Todos:
+	Muchas gracias por todo profe, que tenga una linda semana
+10:11:48 Del Lidia Manrique a Todos:
+	saludos!!
+10:11:53 Del Lucas Laborde-127046 a Todos:
+	Bárbaro, gracias
+
