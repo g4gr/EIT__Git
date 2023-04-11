@@ -49,23 +49,30 @@
  - [X] .gitignore
 
 ### Clase 04 ( / ) / 11/04/2023 de 08:00 a 10:00 AM
- - [ ] Check list de la clase anterior.
- - [ ] Repaso de la clase anterior.
- - [ ] Revisar tareas pendientes de la clase anterior.
- - [ ] Modulo 2 : Trabajo con ramas
+ - [X] Check list de la clase anterior.
+ - [X] Repaso de la clase anterior.
+ - [X] Revisar tareas pendientes de la clase anterior.
+ - [X] Modulo 2 : Trabajo con ramas
     - Crear y navegar ramas.
     - Combinación de ramas.
- - [ ] Modulo 3
-    - Introducción a GitHub.
-    - Trabajar con **Remote**
-    - Scripting.
-    - Hooks.
+ - [X] Git-Flow
+    - Instalación
 
+    | Sistema Operativo     | Comando               |
+    |---                    |---                  |
+    | MacOS                 | `brew install git-flow` |
+    | WindowOS (Git Bash)   | `git flow init`       |
+    - [Documentación adicional](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 ### Clase 05 ( / ) - 13/04/2023 de 08:00 a 10:00 AM
  - [ ] Check list de la clase anterior.
  - [ ] Repaso de la clase anterior.
  - [ ] Revisar tareas pendientes de la clase anterior.
+ - [ ] Modulo 3
+    - Introducción a GitHub.
+    - Trabajar con **Remote**
+    - Scripting.
+    - Hooks.
  - [ ] Modulo 4
     - Clone vs. Fork
     - Desarrollo colaborativo.
